@@ -1,0 +1,23 @@
+{
+  "name": "name-of-gatsby-site-m7ia-k",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Name of Gatsby Site M7IaK",
+  "author": "User",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^3.11.0",
+    "gatsby-plugin-gatsby-cloud": "^2.11.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
